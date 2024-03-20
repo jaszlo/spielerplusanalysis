@@ -13,6 +13,11 @@ This tool is only needed when you do not have the required permission to look at
 
 4. **credentials.py**: This file is required by `scraper.py` and should contain your credentials for logging into Spielerplus. Define the `EMAIL` and `PASSWORD` variables in this file.
 
+```python
+EMAIL=your_email@example.com
+PASSWORD=your_password_here
+```
+
 ## Usage
 
 1. Set up your configuration in `config.py` according to your requirements.
